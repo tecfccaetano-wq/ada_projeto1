@@ -13,3 +13,11 @@ Este curso apresenta as principais ferramentas usadas no trabalho diário com da
 - **Aula 4** — Limpeza e exploração de dados
 - **Aula 5** — Integração e workflow colaborativo com Git
 - **Projeto final** — análise de um conjunto de dados em grupo
+
+## Teste
+Testando as funcionalidades
+testando
+testando
+teste mais uma vez
+
+teste
